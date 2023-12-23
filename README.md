@@ -1,11 +1,6 @@
 # Olá, eu sou o Yago Dutra
 ### Sobre mim
 Estusiasta na área da dados, atualmente curso Tecnólogo em Ciência de Dados e faço parte da Comunidade DS, onde me dedico a melhorar minha stack de ferramentas e aprimorar minha habilidade em resolver problemas de negócio, na comunidade o aprendizado é focado em  projetos reais próximos dos desafios enfrentados diariamente por profissionais da área.
-##
-<div align="center">
-  <a href="https://github.com/Yagodq">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yagodq&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 ## Algumas ferramentas conhecidas:
   <!-- Tools  -->
@@ -32,5 +27,6 @@ Estusiasta na área da dados, atualmente curso Tecnólogo em Ciência de Dados e
   * [Painel Gerencial para Marketplace](https://github.com/Yagodq/projeto_fome_zero)
   * [Previsão de Vendas](https://github.com/Yagodq/projeto_rossmann)
   * [Satisfação do Cliente](https://github.com/Yagodq/projeto_instyle)
+  * [Propensão de Compra](https://github.com/Yagodq/projeto_healthinsurance)
 
 
